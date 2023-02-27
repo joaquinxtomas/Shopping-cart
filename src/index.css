@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    min-width: 285px;
+}
+
+.product-image {
+    width: 100%;
+    background-color: rgb(226, 226, 226);
+}
+
+@media (max-width:560px) {
+    .grilla {
+        grid-template-columns: repeat(auto-fit,
+                minmax(220px, 1fr));
+    }
+
+    .product-container {
+        max-width: 300px;
+        margin: auto;
+    }
+}
+
+
+.product-image {
+    object-position: center;
+}
