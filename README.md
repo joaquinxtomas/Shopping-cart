@@ -1,4 +1,4 @@
-<a style:'font-size:25px' target='_blank' href="Deploy: https://shopping-cartjp.onrender.com/">https://shopping-cartjp.onrender.com/</a>
+Deploy: https://shopping-cartjp.onrender.com/
 
 <h1 style='font-size:50px'>CARRITO DE COMPRAS CON REACT</h1>
 Es un proyecto que realicé con react, utilizando tanto context como reducers. 
